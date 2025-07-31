@@ -1,0 +1,14 @@
+# env files
+backend/.env
+frontend/.env
+.env
+env
+
+# virtual environment
+/venv
+venv
+/backend/venv
+
+# pycache
+__pycache__
+pycache
